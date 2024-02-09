@@ -2,8 +2,11 @@
 layout: default
 ---
 
-## Research
-## Published Papers
+## データ科学を用いた新国際政治経済秩序の記述
+
+## 外交と国際紛争
+
+## 抑止
 
 
 - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The flow of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0290229). 
