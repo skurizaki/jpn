@@ -2,12 +2,12 @@
 layout: default
 ---
 
-##担当授業
-- Graduate
-  - International Politics
+## 担当授業
+- 学部
+ - 国際政治学（隔年担当）
+ - 専門政治学演習（ゼミ）
+ - International Politics
   - Reading Seminar in International Relations
-  - Pre-Seminar in Politics
-  - Seminar in Politics I - IV
 
 - Graduate
   - Reading Seminar in International Relations
