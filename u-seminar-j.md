@@ -41,7 +41,7 @@ layout: default
 
 ## スケジュール
 - プレゼミ（23年度秋学期）<br>
-  - Write a story: 1) the story that takes place five years from now; 2) Start with nirvana; and 3) Forget the ``how'' --- the ``how'' is the killer of all great dreamers. 
+  - Write a story: 1) the story that takes place five years from now; 2) Start with nirvana; and 3) Forget the ``how'' ,as it is the killer of all great dreamers. 
   - 外交使節および経済安保データを使った実習・データ収集の基礎
   - 研究関心分野の論文Show & tell (list of ten articles you love; skim through at least fifty articles)
 
