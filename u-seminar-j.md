@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0) [/ Research](./research.html) [/ Teaching](./teaching.html) [/ Datasets](./datasets.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/)
+[/ cv](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0) [/ 研究](./research.html) [/ 教育・授業](./teaching.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/)
 
 ## ゼミの概要
 栗崎ゼミは以下の科目の履修を通して参加することが出来ます。
