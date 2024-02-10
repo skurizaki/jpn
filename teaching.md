@@ -49,7 +49,7 @@ layout: default
     佐藤和煇　現在：三井住友信託銀行 <br>
     他3名 <br>
   - 2018年度卒業 <br>
-    成珂 (Ka Cheng)  現在：ZSアソシエイツ (Decision Analytics Associate) <br>
+    成珂 (Ke Cheng)  現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     工藤俊平　現在：IBM -> Accenture <br>
     近倫人  現在：ZSアソシエイツ <br>
     西野杏菜　現在：日経新聞（データジャーナリズム） <br>
