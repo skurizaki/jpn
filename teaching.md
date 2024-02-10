@@ -58,7 +58,7 @@ layout: default
     藤生梨乃　現在：日本総合研究所 <br>
     太田奈歩　現在：カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程 <br>
     遠田航平　現在： <br>
-    バズィレバ　バレンティーナ　Valentina Bazyleva　現在：University of Amsterdam MS in Computer Science <br>
+    バズィレバ　バレンティーナ　Valentina Bazyleva　現在：アムステルダム大学 MS in Computer Science <br>
     望戸薫　現在：Ernst & Young Advisory, Consulting <br>
     清水魁星　現在：NHK (記者) <br>
     伊藤千夏 現在： <br>
