@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[/ CV](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0) [/ Research](./research.html) [/ Teaching](./teaching.html) [/ Datasets](./datasets.html) [/ Japanese (日本語)](https://skurizaki.github.io/jpn/)
+
 ## ゼミの概要
 栗崎ゼミは以下の科目の履修を通して参加することが出来ます。
 - 日本語学位プログラム: 専門演習（政治学演習）I, II, III, IV 及び、それに付随する卒業論文
