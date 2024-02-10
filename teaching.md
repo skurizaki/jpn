@@ -40,7 +40,7 @@ layout: default
   - 2017年度卒業 <br>
     関口雅啓 現在：PwCコンサルティング合同会社 →　Data scientist at JMDC <br>
     瀧澤朋郎（公認会計士） 現在：Ernst & Young 新日本有限責任監査法人 <br>
-    小島敦幹  現在：Amazon Web Services (AWS) Doubling, Cloud Support Engineer → Proximus Ada as Data Scientist <br>
+    小島敦幹  現在：アマゾンWeb Services (AWS) Doubling → Proximus Ada as Data Scientist <br>
     徳田誠太郎 現在：東映 <br>
     佐藤和煇　現在：三井住友信託銀行 <br>
     他3名 <br>
