@@ -108,6 +108,6 @@ layout: default
     Andrew Capistrano　現在：ロンドンスクール（LSE）（国際関係史、博士） <br>
     Ban Ali　現在： <br>
     武井槙人　現在：モンテレイ工科大学助教授 <br>
-    玉水玲央  現在：日本国際問題研究所 <br>
+    玉水玲央    現在：日本国際問題研究所 <br>
 
 
