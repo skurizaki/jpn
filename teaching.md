@@ -21,7 +21,7 @@ layout: default
   - 政治学研究方法（数理）Research Methods in Political Sciene (Formal Theory)
 
 ## 在籍学生・卒業生・修了生
-- 学部
+- 学部ゼミ
   - 2015年度卒業 <br>
     小石隆也　現在：Ernst & Young (EY) Advisory <br>
     福岡杏里紗　現在：デロイト・トーマツ <br>
@@ -89,7 +89,7 @@ layout: default
     徳永 <br>
     新浜 <br>
     Jisu Eom <br>
-- 大学院
+- 大学院（指導、主査、博士課程は副査を含む）
   - ポスドク <br>
     土井翔平  現在：北海道大学法学研究科准教授
   - 博士課程 <br>
