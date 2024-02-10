@@ -58,30 +58,30 @@ layout: default
   - 分析結果の可視化、ポスター作成、論文執筆
   - Write a story again: 1) let's go out five years from there; 2) Redefine your nirvana, your future; and 3) Don't write a story of about what happened.  Write your story, then make that happen.
 
-## 選考について
+## 選考について（提出課題など）
 栗崎ゼミでは原則として書類審査で選考を行い面接は、担当教員がそれが必要だと認めた場合に行います。<br>
 休学や留学から復学する学生も選考を受けることが出来ます。
 
 書類審査では１）政経学部事務所が管理するオンライン上での申請とは別に、２）個別課題のメールでの提出をお願いしています。
 
-- 個別課題
+- 個別課題<br>
  以下の項目について、kurizaki@waseda.jp宛にメールで送ってください。締め切りについては下を参照。<br>
   1) 既習科目：「国際関係論入門」「国際政治学」「国際政治史」「ゲーム理論」「計量政治分析」「比較経済制度分析」（←比較政治制度にあらず）やその周辺科目に関して、履修の有無、担当教員、教科書・参考書、そして学習到達度について自己評価して下さい。計量分析については使用したソフトウエア（RやPythonやSQL）の習熟度も記してください。なお、上記授業の履修は演習参加の必須条件ではありません。<br>
   　＊副専攻を履修中（あるいは予定）は、その旨を記述。特にソフトウェア学、経済学（政治学科生の場合）、政治学（経済学科生の場合）は、履修内容を詳述してください。<br>
 　  ＊データ科学認定を取得済・中・予定の場も、その旨を記述<br>
   2) 言語能力：　第一言語（母語）、第二言語などそれぞれについての自己評価。<br>
-  3) 研究テーマ：i) 関心を持つ国際政治上の政策問題、時事問題ないし歴史問題、ii) その問題の所在（なぜ問題なのか）、iii) その問題の政治学的な意味。合計500字以内。
-  4) 志望動機： 上記研究テーマに関する研究を行うにあたり、なぜ本演習なのか、他の演習ではないのか。500字以内。
-  5) 自己紹介：　今のあなたを形づくる上で、これまでに影響を受けた作品、体験、ないし出来事について500字以内。
-  6) 将来の希望進路、キャリアパス、夢、あるいは野望。
-  7) 課題：書式は自由ですが、日本語か英語を使用して下さい.
+  3) 研究テーマ：i) 関心を持つ国際政治上の政策問題、時事問題ないし歴史問題、ii) その問題の所在（なぜ問題なのか）、iii) その問題の政治学的な意味。合計500字以内。<br>
+  4) 志望動機： 上記研究テーマに関する研究を行うにあたり、なぜ本演習なのか、他の演習ではないのか。500字以内。<br>
+  5) 自己紹介：　今のあなたを形づくる上で、これまでに影響を受けた作品、体験、ないし出来事について500字以内。<br>
+  6) 将来の希望進路、キャリアパス、夢、あるいは野望。<br>
+  7) 課題：書式は自由ですが、日本語か英語を使用して下さい。<br>
      Submit a one-page summary of a scientific research paper on any topic of your choice.  Your summary should discuss (i) what question/problem the author addresses in the paper, (ii) the significance of the question --- why and how the author believes this question is important for our society, (iii) how the author attempts to answer the question or solve the problem set forth (e.g., the theoretical approach? Empirical approach? Or describe the research methods adopted in the paper), (iv) the findings, (v) How the findings advance our knowledge on the relevant topic,  and (vi) any flaws or limits in its research that might change the author’s conclusion.   
  
-- 選考基準
+- 選考基準<br>
 ほとんど唯一の基準は、白けた態度を持っていないこと。何か意思をもって生活していることです。個別課題に含まれる既習科目の内容や志望動機は参考程度にしか用いません。成績表は履修科目と確認を主目的に用います。成績そのもの重視しませんが、説明できるかどうかには関心を持ちます。
  
-- 個別課題申請締切
-2024年3月復学者選考の場合
+- 個別課題申請締切<br>
+2024年3月復学者選考の場合<br>
 3月11日（月曜日）午後5時までに、上記の個別課題をメールにてkurizaki@waseda.jp まで送ってください。
  
 また、質問のある方もkurizaki@waseda.jp までメールを送ってください。
