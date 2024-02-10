@@ -65,7 +65,7 @@ layout: default
     久保麟太郎　現在：財務省 <br>
     橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science <br>
   　他3名 <br>
-  - 2020年度卒業
+  - 2020年度卒業<br>
     鈴木輝 現在：Accenture (Data science consultant) <br>
     坂東茉唯 現在：三井物産 <br>
     Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
