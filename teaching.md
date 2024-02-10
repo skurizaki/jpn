@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Teaching
+##担当授業
 - Graduate
   - International Politics
   - Reading Seminar in International Relations
