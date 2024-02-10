@@ -66,23 +66,23 @@ layout: default
     橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science <br>
   　他3名 <br>
   - 2020年度卒業<br>
-    鈴木輝 現在：Accenture (Data science consultant) <br>
-    坂東茉唯 現在：三井物産 <br>
-    Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
+    鈴木輝  現在：Accenture (Data science consultant) <br>
+    坂東茉唯  現在：三井物産 <br>
+    Luigi Ludwig  現在：シティバンク, Sales and Trading <br>
     平野真帆  現在：Googleジャパン, Associate Account Strategist <br>
-    鴨志田暁 現在：ブリティッシュコロンビア大学, Law School, 法務博士JD candidate <br>
-    中村健太郎　現在：ハーバード大学Kennedy School Public Policy (Government track) 博士課程 <br>
-    入原光輝 現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
-    Weiyuan Chen　現在：Accenture Japan <br>
-    温ビチャン 現在：野村證券 <br>
-    久保田雪華 現在： <br>
+    鴨志田暁  現在：ブリティッシュコロンビア大学, Law School, 法務博士JD candidate <br>
+    中村健太郎  現在：ハーバード大学Kennedy School Public Policy (Government track) 博士課程 <br>
+    入原光輝  現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
+    Weiyuan Chen  現在：Accenture Japan <br>
+    温ビチャン  現在：野村證券 <br>
+    久保田雪華  現在： <br>
   - 2021年度卒業 <br>
     朱奇默　Qimo Zhu  現在：早稲田大学院政治学研究科 <br>
-    小磯　慎士（学部長奨励賞：成績優秀者＋論文コンクール最優秀賞） 現在：東京大学大学院経済学研究科修士課程 <br>
-    長田創太郎 現在：日本IBM（コンサルタント） <br>
-    菊地優 現在：株式会社 ツムラ <br>
+    小磯　慎士（学部長奨励賞：成績優秀者＋論文コンクール最優秀賞）  現在：東京大学大学院経済学研究科修士課程 <br>
+    長田創太郎  現在：日本IBM（コンサルタント） <br>
+    菊地優  現在：株式会社 ツムラ <br>
     Riki Widodo  現在：ジョージワシントン大学, Masters program in Asian Studies <br>
-    橋場芽衣（学部長奨励賞：成績優秀者）　現在：フィリップ・モリス <br>
+    橋場芽衣（学部長奨励賞：成績優秀者）  現在：フィリップ・モリス <br>
     他3名 <br>
   - 2025年度卒業予定 <br>
     金島匠 <br>
