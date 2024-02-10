@@ -1,4 +1,4 @@
-<img width="3625" alt="image" src="https://github.com/skurizaki/jpn/assets/157084403/9dfce776-fb2e-4a21-a150-d15ebb180567">---
+---
 layout: default
 ---
 
