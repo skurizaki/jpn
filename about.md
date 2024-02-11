@@ -27,7 +27,7 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 
 - <b>受賞</b><br>
   - 2005年　[カール・ベック (Carl Beck) 賞](https://www.isanet.org/Programs/Awards/Carl-Beck)：[国際関係学会 (International Studies Association)](https://www.isanet.org/) 年間最優秀論文賞<br>
-  - 2006年　[ディナ・ジネス (Dina Zinnes) 賞](https://www.isanet.org/Programs/Awards/Dina-Zinnes)：国際関係学会 (International Studies Association) 国際過程の科学研究 (Scientific Study of International Processes) 部会大学院生年間最優秀論文賞<br>
+  - 2006年　[ディナ・ジネス (Dina Zinnes) 賞](https://www.isanet.org/Programs/Awards/Dina-Zinnes)：国際関係学会 (International Studies Association) [国際過程の科学研究 (Scientific Study of International Processes) 部会](https://www.isanet.org/ISA/Sections/SSIP)年間最優秀論文賞<br>
   - 2008年　第11回 三宅一郎賞<br>
   - 2014年　早稲田大学ティーチングアワード<br>
   - 2017年　早稲田大学 e-Teaching Award<br>
