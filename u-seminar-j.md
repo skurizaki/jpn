@@ -74,9 +74,9 @@ kurizaki@waseda.jp<br>
 
 - <b>申請期間・提出期限:</b> 2024年3月の申請の場合（復学者など対象）<br>
   - 事務所への応募申請期間：2024年3月7日（木）から3月8日（金）まで<br>
-  - 栗崎への個別課題提出期限：2024年3月8日（金）午後5時<br> 
+  - 栗崎への個別課題提出期限：2024年3月8日（金）午後5時までにkurizaki@waseda.jpに送信<br> 
  
-- 個別課題<br>
+- <b>個別課題</b><br>
  以下の項目について、kurizaki@waseda.jp宛にメールで送ってください。締め切りについては下を参照。<br>
   1) 既習科目：「国際関係論入門」「国際政治学」「国際政治史」「ゲーム理論」「計量政治分析」「比較経済制度分析」（←比較政治制度にあらず）やその周辺科目に関して、履修の有無、担当教員、教科書・参考書、そして学習到達度について自己評価して下さい。計量分析については使用したソフトウエア（RやPythonやSQL）の習熟度も記してください。なお、上記授業の履修は演習参加の必須条件ではありません。<br>
   　＊副専攻を履修中（あるいは予定）は、その旨を記述。特にソフトウェア学、経済学（政治学科生の場合）、政治学（経済学科生の場合）は、履修内容を詳述してください。<br>
@@ -89,11 +89,7 @@ kurizaki@waseda.jp<br>
   7) 課題：書式は自由ですが、日本語か英語を使用して下さい。<br>
 Choose one scientific research paper on any topic of your choice and submit a one-page summary in which you discuss (i) what question/problem is addressed, (ii) the significance of the question --- why and how the author believes this question is important for our society, (iii) how the author attempts to answer the question or solve the problem set forth (e.g., the theoretical approach? Empirical approach? Or describe the research methods adopted in the paper), (iv) the findings, (v) How the findings advance our knowledge on the relevant topic,  and (vi) any flaws or limits in its research that might change the author’s conclusion. 
  
-- 選考基準<br>
+- <b>選考基準</b><br>
 ほとんど唯一の基準は、白けた態度を持っていないこと。何か意思をもって生活していることです。個別課題に含まれる既習科目の内容や志望動機は参考程度にしか用いません。成績表は履修科目と確認を主目的に用います。成績そのもの重視しませんが、説明できるかどうかには関心を持ちます。
  
-- 個別課題申請締切<br>
-2024年3月復学者選考の場合<br>
-3月11日（月曜日）午後5時までに、上記の個別課題をメールにてkurizaki@waseda.jp まで送ってください。
- 
-また、質問のある方もkurizaki@waseda.jp までメールを送ってください。
+質問のある方もkurizaki@waseda.jp までメールを送ってください。
