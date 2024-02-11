@@ -49,15 +49,15 @@ layout: default
   - 研究課題設定のブレスト
   - 研究関心分野の既存研究サーベイと自分の研究課題の距離の描写
 
-- 演習II/Advanced Seminar I（3年生秋学期）
+- 演習II/Advanced Seminar II（3年生秋学期）
   - 先行研究の再現分析とリサーチデザイン策定（トーイモデル）
   - 必要な場合はデータ収集とデータ整理
 
-- 演習III/Advanced Seminar I（4年生春学期）
+- 演習III/Advanced Seminar III（4年生春学期）
   - 分析継続、分析結果の解釈、頑強性チェック、議論・命題の確定
   - 就活生は就活に全力
 
-- 演習IV/Advanced Seminar I（4年生秋学期）
+- 演習IV/Advanced Seminar IV（4年生秋学期）
   - 分析結果の可視化、ポスター作成、論文執筆
   - Write your story again: 1) let's go out five years from there; 2) Redefine your nirvana, your future; and 3) Don't write a story about what happened.  Write your story, then make that happen.
 
