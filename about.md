@@ -28,12 +28,12 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 
 - <b>受賞</b><br>
   - 2005年　[カール・ベック (Carl Beck) 賞](https://www.isanet.org/Programs/Awards/Carl-Beck)：[国際関係学会 (International Studies Association)](https://www.isanet.org/) 年間最優秀論文賞<br>
-  - 2006年　ディナ・ジネス (Dina Zinnes) 賞：国際関係学会 (International Studies Association) 国際過程の科学研究 (Scientific Study of International Processes) 部会大学院生年間最優秀論文賞<br>
+  - 2006年　[ディナ・ジネス (Dina Zinnes) 賞](https://www.isanet.org/Programs/Awards/Dina-Zinnes)：国際関係学会 (International Studies Association) 国際過程の科学研究 (Scientific Study of International Processes) 部会大学院生年間最優秀論文賞<br>
   - 2008年　第11回 三宅一郎賞<br>
   - 2014年　早稲田大学ティーチングアワード<br>
   - 2017年　早稲田大学 e-Teaching Award<br>
-  - 2021年　日本人工知能学会 (JSAI Annual Conference Award) 全国大会優秀賞（水野貴之・土井翔平・土屋貴裕との共同研究）<br>
-  - 2022年　日本人工知能学会 (JSAI Annual Conference Award) 全国大会優秀賞（水野貴之・土井翔平との共同研究）<br>
+  - 2021年　日本人工知能学会 (JSAI Annual Conference Award) [全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)（[水野貴之](https://www.nii.ac.jp/faculty/society/mizuno_takayuki/)・土井翔平・土屋貴裕との共同研究）<br>
+  - 2022年　日本人工知能学会 (JSAI Annual Conference Award) [全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)（[水野貴之](https://www.nii.ac.jp/faculty/society/mizuno_takayuki/)・土井翔平との共同研究）<br>
 
 - <b>知的財産権</b><br>
   - 水野貴之, 土井翔平, 栗崎周平（発明者・権利者）/ 影響力評価システム/ 特願2021-162219 (審理中：2021年申請）Network Power Flow (NPF)の算出装置：ネットワークで繋がる主体間の命令経路を算出する装置<br>
