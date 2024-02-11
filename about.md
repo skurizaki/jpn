@@ -19,7 +19,7 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 
 - <b>その他の経歴</b><br>
 2018年－現在　広島県平和推進プロジェクト<br>
-2020年－現在　計量・数理政治学会 (JSQPS) 幹事<br>
+2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
 2022年－現在　国立情報学研究所 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
 2024年－現在　編集長(Editor-in-Chief), [Japanese Journal of Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science) (Cambridge University Press)<br>
