@@ -4,11 +4,11 @@ layout: default
 
 [/ Home](https://skurizaki.github.io/jpn/) [/ 研究](./research.html) [/ 教育・授業](./teaching.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/)
 
-- CV
+- <b>CV</b><br>
 Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)<br>
 履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)<br>
 
-- 略歴
+- <b>略歴</b><br>
 1998年　上智大学法学部卒業<br>
 2007年　UCLA政治学博士号取得<br>
 2005年－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
