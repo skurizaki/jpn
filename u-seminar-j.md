@@ -40,7 +40,7 @@ layout: default
 
 ## スケジュール
 - プレゼミ（2年生秋学期）<br>
-  - Write your story: 1) the story that takes place five years from now; 2) Start with nirvana; and 3) Forget the ``how'' ,as it is the killer of all great dreamers. 
+  - Write your story: 1) the story that takes place five years from now; 2) Start with nirvana; and 3) Forget the "how," as it is the killer of all great dreamers. 
   - 外交使節および経済安保データを使った実習・データ収集の基礎
   - 研究関心分野の論文Show & tell (list of ten articles you love; skim through at least fifty articles)<br>
     (*) 英語学位プログラム・復学者のゼミ参加は現在のカリキュラム制度上「プレゼミ」には参加できません。演習IないしAdvanced Seminar Iないしその他最初の学期にWrite your storyと論文show & tellを集中的に行います。
