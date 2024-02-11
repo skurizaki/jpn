@@ -18,6 +18,7 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 2021－2023年　[スタンフォード大学国際安全保障協力センター (CISAC)](https://cisac.fsi.stanford.edu) 客員研究員<br>
 
 - <b>その他の経歴</b><br>
+2014年      JMOOC講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講
 2018年－現在　広島県平和推進プロジェクト<br>
 2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
 2022年－現在　国立情報学研究所 客員准教授<br>
