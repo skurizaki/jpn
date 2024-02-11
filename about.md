@@ -7,11 +7,13 @@ layout: default
 ## CV
 - Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)
 - 履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)
-- 英語学位プログラム：Advanced Seminar I, II, III, IV 及び、それに付随するThesis<br>
-
 
 ## 略歴
-栗崎ゼミは以下の科目の履修を通して参加することが出来ます。
-- 日本語学位プログラム: 専門演習（政治学演習）I, II, III, IV 及び、それに付随する卒業論文
-- 英語学位プログラム：Advanced Seminar I, II, III, IV 及び、それに付随するThesis<br>
-
+- 1998年　上智大学法学部卒業
+- 2007年　UCLA政治学博士号取得
+- 2005年－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー
+- 2006年－2007年　テキサスA&M大学政治学部 講師
+- 2007年－2013年　テキサスA&M大学政治学部 助教授
+- 2013年－現在　　早稲田大学政治経済学部 准教授
+2021年－2022年　ハーバード大学日米関係プログラム客員研究員
+2021年－2023年　スタンフォード大学国際安全保障協力センター客員研究員
