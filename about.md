@@ -5,7 +5,7 @@ layout: default
 [/ Home](https://skurizaki.github.io/jpn/) [/ 研究](./research.html) [/ 教育・授業](./teaching.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/)
 
 - <b>CV</b><br>
-Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)<br>
+Curriculum Vitae (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)<br>
 履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)<br>
 
 - <b>略歴</b><br>
