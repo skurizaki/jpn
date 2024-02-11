@@ -10,7 +10,7 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 
 - <b>略歴</b><br>
 1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
-1999-2005年　[UCLA政治学部](https://polisci.ucla.edu)博士課程（2007年博士号取得）<br>
+1999－2005年　[UCLA政治学部](https://polisci.ucla.edu)博士課程（2007年博士号取得）<br>
 2005－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
 2006－2013年　[テキサスA&M大学政治学部](https://bush.tamu.edu/pols/) 講師・助教授<br>
 2013－現在　　早稲田大学政治経済学部 准教授<br>
