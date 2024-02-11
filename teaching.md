@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0) [/ 研究](./research.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/) [/ 連絡先](./contact.html)
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf?rlkey=zq3e2jck4divpi45kms5u145q&dl=0) [/ 研究](./research.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/) [/ 連絡先](./contact.html)
 
 ## 担当授業
 - 学部
