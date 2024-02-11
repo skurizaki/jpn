@@ -39,24 +39,24 @@ layout: default
 早稻田大學政治經濟學會論文コンクール (2020年、2021年) 数理・統計部門優勝（学会優秀賞・優秀作）
 
 ## スケジュール
-- プレゼミ（23年度秋学期）<br>
+- プレゼミ（2年生秋学期）<br>
   - Write your story: 1) the story that takes place five years from now; 2) Start with nirvana; and 3) Forget the ``how'' ,as it is the killer of all great dreamers. 
   - 外交使節および経済安保データを使った実習・データ収集の基礎
   - 研究関心分野の論文Show & tell (list of ten articles you love; skim through at least fifty articles)
 
-- 演習I（24年度春学期）
+- 演習I（3年生春学期）
   - 研究課題設定のブレスト
   - 研究関心分野の既存研究サーベイと自分の研究課題の距離の描写
 
-- 演習II（24年度秋学期）
+- 演習II（3年生秋学期）
   - 先行研究の再現分析とリサーチデザイン策定（トーイモデル）
   - 必要な場合はデータ収集とデータ整理
 
-- 演習III（25年度春学期）
+- 演習III（4年生春学期）
   - 分析継続、分析結果の解釈、頑強性チェック、議論・命題の確定
   - 就活生は就活に全力
 
-- 演習IV（25年度秋学期）
+- 演習IV（4年生秋学期）
   - 分析結果の可視化、ポスター作成、論文執筆
   - Write your story again: 1) let's go out five years from there; 2) Redefine your nirvana, your future; and 3) Don't write a story about what happened.  Write your story, then make that happen.
 
