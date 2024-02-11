@@ -9,14 +9,13 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)<br>
 
 - <b>略歴</b><br>
-1998年　上智大学法学部卒業<br>
-2007年　UCLA政治学博士号取得<br>
-2005年－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
-2006年－2007年　テキサスA&M大学政治学部 講師<br>
-2007年－2013年　テキサスA&M大学政治学部 助教授<br>
-2013年－現在　　早稲田大学政治経済学部 准教授<br>
-2021年－2022年　ハーバード大学日米関係プログラム客員研究員<br>
-2021年－2023年　スタンフォード大学国際安全保障協力センター客員研究員<br>
+1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
+1999-2005年　[UCLA政治学部](https://polisci.ucla.edu)博士課程（2007年博士号取得）<br>
+2005－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
+2006－2013年　[テキサスA&M大学政治学部](https://bush.tamu.edu/pols/) 講師・助教授<br>
+2013－現在　　早稲田大学政治経済学部 准教授<br>
+2021－2022年　[ハーバード大学日米関係プログラム](https://us-japan.wcfia.harvard.edu/galleries/affiliate-experience)客員研究員<br>
+2021－2023年　[スタンフォード大学国際安全保障協力センター (CISAC)](https://cisac.fsi.stanford.edu) 客員研究員<br>
 
 - <b>その他の経歴</b><br>
 2018年－現在　広島県平和推進プロジェクト<br>
