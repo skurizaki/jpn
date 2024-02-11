@@ -58,7 +58,7 @@ layout: default
 
 - 演習IV（25年度秋学期）
   - 分析結果の可視化、ポスター作成、論文執筆
-  - Write a story again: 1) let's go out five years from there; 2) Redefine your nirvana, your future; and 3) Don't write a story about what happened.  Write your story, then make that happen.
+  - Write your story again: 1) let's go out five years from there; 2) Redefine your nirvana, your future; and 3) Don't write a story about what happened.  Write your story, then make that happen.
 
 ## 選考について（提出課題など）
 栗崎ゼミでは原則として書類審査で選考を行い面接は、担当教員がそれが必要だと認めた場合に行います。<br>
