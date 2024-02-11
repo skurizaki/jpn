@@ -22,7 +22,7 @@ Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https:/
 2020年－現在　計量・数理政治学会 (JSQPS) 幹事<br>
 2022年－現在　国立情報学研究所 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
-2024年－現在　編集長(Editor-in-Chief), Japanese Journal of Political Science (Cambridge University Press)<br>
+2024年－現在　編集長(Editor-in-Chief), [Japanese Journal of Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science) (Cambridge University Press)<br>
 2024年－現在　防衛省「防衛力の抜本的強化に関する有識者会議（仮称）」委員<br>
 
 - <b>受賞</b><br>
