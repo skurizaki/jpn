@@ -4,11 +4,11 @@ layout: default
 
 [/ Home](https://skurizaki.github.io/jpn/) [/ 研究](./research.html) [/ 教育・授業](./teaching.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/)
 
-## CV
-- Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)
-- 履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)
+- CV
+Curriculum Vitaeは (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf)<br>
+履歴書 (.pdf) 最終更新　2024年2月11日は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf)<br>
 
-## 略歴
+- 略歴
 1998年　上智大学法学部卒業<br>
 2007年　UCLA政治学博士号取得<br>
 2005年－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
@@ -18,7 +18,7 @@ layout: default
 2021年－2022年　ハーバード大学日米関係プログラム客員研究員<br>
 2021年－2023年　スタンフォード大学国際安全保障協力センター客員研究員<br>
 
-## その他の経歴
+- その他の経歴
 2018年－現在　広島県平和推進プロジェクト<br>
 2020年－現在　計量・数理政治学会 (JSQPS) 幹事<br>
 2022年－現在　国立情報学研究所 客員准教授<br>
