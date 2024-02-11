@@ -26,12 +26,12 @@ layout: default
 
 ## 在籍学生・卒業生・修了生
 - 学部ゼミ
-  - 2015年度卒業 <br>
+  - <b>2015年度卒業</b> <br>
     小石隆也　現在：Ernst & Young (EY) Advisory <br>
     福岡杏里紗　現在：デロイト・トーマツ <br>
     小石未菜 <br>
     他2名 <br>
-  - 2016年度卒業 <br>
+  - <b>2016年度卒業</b> <br>
     高木要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 <br>
     小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO <br>
@@ -41,23 +41,23 @@ layout: default
     柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 <br>
     石田早帆子　現在：LSE統計学部博士課程 Ph.D. Candidate <br>
     他3名 <br>
-  - 2017年度卒業 <br>
+  - <b>2017年度卒業</b> <br>
     関口雅啓　現在：PwCコンサルティング合同会社 →　Data scientist at JMDC <br>
     瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
     小島敦幹　現在：アマゾンWeb Services (AWS) Doubling → Proximus Ada as Data Scientist <br>
     徳田誠太郎　現在：東映 <br>
     佐藤和煇　現在：三井住友信託銀行 <br>
     他3名 <br>
-  - 2018年度卒業 <br>
+  - <b>2018年度卒業</b> <br>
     成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     工藤俊平　現在：IBM -> Accenture <br>
     近倫人　現在：ZSアソシエイツ <br>
-    西野杏菜　現在：日経新聞（データジャーナリズム） <br>
+    西野杏菜　現在：日本経済新聞社（データジャーナリズム） <br>
     佐々木祐輔　現在：NHK（制作） <br>
     林祐志　現在：Bloomberg L.P. Market Data Analyst -> Data Scientist, Accenture <br>
     寺田篤史　現在：EYパルテノン <br>
     他3名 <br>
-  - 2019年度卒業 <br>
+  - <b>2019年度卒業</b> <br>
     本山功　現在：防衛省防衛研究所研究員 <br>
     藤生梨乃　現在：日本総合研究所 <br>
     太田奈歩　現在：カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程 <br>
@@ -69,7 +69,7 @@ layout: default
     久保麟太郎　現在：財務省 <br>
     橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science <br>
   　他3名 <br>
-  - 2020年度卒業<br>
+  - <b>2020年度卒業</b><br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
     坂東茉唯　現在：三井物産 <br>
     Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
@@ -80,7 +80,7 @@ layout: default
     Weiyuan Chen　現在：Accenture Japan <br>
     温ビチャン　現在：野村證券 <br>
     久保田雪華　現在： <br>
-  - 2021年度卒業 <br>
+  - <b>2021年度卒業</b> <br>
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
     小磯　慎士（学部長奨励賞：成績優秀者＋論文コンクール最優秀賞）　現在：東京大学大学院経済学研究科修士課程 <br>
     長田創太郎　現在：日本IBM（コンサルタント） <br>
@@ -88,19 +88,19 @@ layout: default
     Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
     橋場芽衣（学部長奨励賞：成績優秀者）　現在：フィリップ・モリス <br>
     他3名 <br>
-  - 2025年度卒業予定 <br>
+  - <b>2025年度卒業予定</b> <br>
     金島匠 <br>
     徳永 <br>
     新浜 <br>
     Jisu Eom <br>
 - 大学院（指導、主査、博士課程は副査を含む）
-  - ポスドク <br>
+  - <b>ポスドク</b> <br>
     土井翔平　現在：北海道大学法学研究科准教授
-  - 博士課程 <br>
+  - <b>博士課程</b> <br>
     淺野塁 就職：西南学院大学法学部准教授 <br>
     Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師 <br>
     田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師 <br>
-  - 修士課程 <br>
+  - <b>修士課程</b> <br>
     仁科有美子　前職：防衛省、現在：NEC <br>
     本山功　前職：学部生（早稲田）、現在：防衛省防衛研究所 <br>
     青柳加奈子　前職、現在：航空自衛隊幹部学校航空研究センター <br>
