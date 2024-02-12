@@ -29,7 +29,7 @@ layout: default
   - <b>2015年度卒業</b> <br>
     小石隆也　現在：Ernst & Young (EY) Advisory <br>
     福岡杏里紗　現在：デロイト・トーマツ <br>
-    小石未菜 <br>
+    小石未菜　現在： 海外在住のブロガー<br>
     他2名 <br>
   - <b>2016年度卒業</b> <br>
     高木要　現在：LegalOn Technologies (Data analyst) <br>
