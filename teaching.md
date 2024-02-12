@@ -38,7 +38,7 @@ layout: default
     倉嶋麻里 現在：株式会社アイリス／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
     板橋飛雄馬　現在：伊藤忠商事　→ KPMG Japan (Financial Risk Analyst) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
-    柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 <br>
+    柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 (早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     石田早帆子　現在：LSE統計学部博士課程 Ph.D. Candidate <br>
     他3名 <br>
   - <b>2017年度卒業</b> <br>
@@ -75,18 +75,18 @@ layout: default
     Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
     平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
     鴨志田暁　現在：ブリティッシュコロンビア大学, Law School, 法務博士JD candidate <br>
-    中村健太郎　現在：ハーバード大学ケネディーSchool 博士課程 <br>
+    中村健太郎　現在：ハーバード大学ケネディーSchool 博士課程 （2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"）<br>
     入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     Weiyuan Chen　現在：Accenture Japan <br>
     温ビチャン　現在：野村證券 <br>
     久保田雪華　現在： <br>
   - <b>2021年度卒業</b> <br>
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
-    小磯　慎士（学部長奨励賞：成績優秀者＋論文コンクール最優秀賞）　現在：東京大学大学院経済学研究科修士課程 <br>
+    小磯　慎士　現在：東京大学大学院経済学研究科修士課程 (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ "Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）)<br>
     長田創太郎　現在：日本IBM（コンサルタント） <br>
     菊地優　現在：株式会社 ツムラ <br>
     Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
-    橋場芽衣（学部長奨励賞：成績優秀者）　現在：フィリップ・モリス <br>
+    橋場芽衣　現在：フィリップ・モリス （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
     他3名 <br>
   - <b>2025年度卒業予定</b> <br>
     金島匠 <br>
