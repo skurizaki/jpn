@@ -51,10 +51,10 @@ layout: default
   - <b>2018年度卒業</b> <br>
     成珂 (Ke Cheng)　現在：ZSアソシエイツ (Decision Analytics Associate) <br>
     工藤俊平　現在：IBM -> Accenture <br>
-    近倫人　現在：ZSアソシエイツ <br>
     西野杏菜　現在：日本経済新聞社（データジャーナリズム） <br>
     佐々木祐輔　現在：NHK（制作） <br>
-    林祐志　現在：Bloomberg L.P. Market Data Analyst -> Data Scientist, Accenture <br>
+    近倫人　現在：ZSアソシエイツ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
+    林祐志　現在：Bloomberg L.P. Market Data Analyst -> Data Scientist, Accenture （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
     寺田篤史　現在：EYパルテノン <br>
     他3名 <br>
   - <b>2019年度卒業</b> <br>
@@ -67,7 +67,7 @@ layout: default
     清水魁星　現在：NHK (記者) <br>
     伊藤千夏　現在： <br>
     久保麟太郎　現在：財務省 <br>
-    橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science <br>
+    橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
