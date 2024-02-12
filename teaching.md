@@ -65,7 +65,7 @@ layout: default
     バズィレバ　バレンティーナ　Valentina Bazyleva　現在：アムステルダム大学 MS in Computer Science <br>
     望戸薫　現在：Ernst & Young Advisory, Consulting <br>
     清水魁星　現在：NHK (記者) <br>
-    伊藤千夏　現在： <br>
+    伊藤千夏　現在：株式会社システナ <br>
     久保麟太郎　現在：財務省 <br>
     橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
