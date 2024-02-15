@@ -116,4 +116,13 @@ layout: default
     Nate Biederman　前職：米海兵隊 <br>
     東田莉子　前職：学部生（エディンバラ大学） <br>
 
+## 栗崎の指導教官
+- UCLAでの博士論文委員会
+Arthur Stein, Co-chair, Distinguished Professor of Political Science, UCLA
+Kenneth Schultz, Co-chari, William Bennett Munro Professor of Political Science, Stanford University
+Barry O'Neill, Professor of Political Science, UCLA
+Michael Chew, Professor of Political Science, UCLA
+Leeat Yariv, Uwe E. Reinhardt Professor of Economics, Princeton University
 
+- 上智大学（学部生）時代の指導教官
+猪口邦子、上智大学名誉教授、参議院議員
