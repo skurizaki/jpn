@@ -10,7 +10,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 - <b>略歴</b><br>
 1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
 1999－2005年　[UCLA政治学部](https://polisci.ucla.edu)博士課程（Ph.D. in political science, 2007年取得）<br>
-2005－2006年　ハーバード大学ジョンオーリン戦略研究所 国家安全保障フェロー<br>
+2005－2006年　[ハーバード大学ジョンオーリン戦略研究所](https://www.wcfia.harvard.edu/olin/) 国家安全保障フェロー<br>
 2006－2013年　[テキサスA&M大学政治学部](https://bush.tamu.edu/pols/) 講師・助教授<br>
 2013－現在　　早稲田大学政治経済学部 准教授<br>
 2021－2022年　[ハーバード大学日米関係プログラム](https://us-japan.wcfia.harvard.edu/galleries/affiliate-experience)客員研究員<br>
