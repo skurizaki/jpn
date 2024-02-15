@@ -19,7 +19,7 @@ layout: default
   -   [「ゲーム理論で考える安全保障(5) 情報完備で交渉失敗も」](https://www.nikkei.com/article/DGKKZO29470160X10C18A4KE8000/) 2018年4月18日朝刊<br>
   -   [「ゲーム理論で考える安全保障(6) 先制攻撃論、戦略的安定損なう」](https://www.nikkei.com/article/DGXMZO29527380Y8A410C1SHE000/) 2018年4月19日朝刊<br>
   -   [「ゲーム理論で考える安全保障(7) 覇権の移行、衝突の危険も」](https://www.nikkei.com/article/DGKKZO29572880Z10C18A4KE8000/) 2018年4月20日朝刊<br>
-  -   [「ゲーム理論で考える安全保障(8) 同盟の有効性には疑問も」](https://www.nikkei.com/article/DGXMZO29630610Q8A420C1SHE000/)」2018年4月12日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(8) 同盟の有効性には疑問も」](https://www.nikkei.com/article/DGXMZO29630610Q8A420C1SHE000/)」2018年4月23日朝刊<br>
   -   [「ゲーム理論で考える安全保障(9) 同盟のコスト、抑止高める」](https://www.nikkei.com/article/DGXMZO29713350T20C18A4SHE000/)」2018年4月24日朝刊<br>
   -   [「ゲーム理論で考える安全保障(10) 日米同盟、沖縄などの負担が支え」](https://www.nikkei.com/article/DGXMZO29760810U8A420C1SHE000/)」2018年4月25日朝刊<br>
 
