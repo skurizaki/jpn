@@ -12,9 +12,13 @@ layout: default
   -   [「ビッグデータ解析で取引可視化　米テスラ供給網に「隠れ株主」」](https://business.nikkei.com/atcl/NBD/19/00150/122600066/)」『日経ビジネス』2023年1月6日号<br>
 
 - 『日本経済新聞』朝刊の＜やさしい経済学＞にて「ゲーム理論で考える安全保障」を全10回連載しました。<br>
-  -   [「ゲーム理論で考える安全保障(1) 戦略的相互作用を分析」](https://www.nikkei.com/article/DGXMZO29246470R10C18A4SHE000/)」2018年4月12日朝刊<br>
-  -   [「ゲーム理論で考える安全保障(2) 平和解決は常に可能」](https://business.nikkei.com/atcl/NBD/19/00150/122600066/)」2018年4月12日朝刊<br>
-  -   [「ゲーム理論で考える安全保障(3) 平和解決の失敗、情報不足に原因」](https://www.nikkei.com/article/DGXMZO29345800T10C18A4SHE000/)」2018年4月16日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(1) 戦略的相互作用を分析」](https://www.nikkei.com/article/DGXMZO29246470R10C18A4SHE000/) 2018年4月12日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(2) 平和解決は常に可能」](https://www.nikkei.com/article/DGXMZO29297390S8A410C1SHE000/) 2018年4月13日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(3) 平和解決の失敗、情報不足に起因」](https://www.nikkei.com/article/DGXMZO29345800T10C18A4SHE000/) 2018年4月16日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(4) 情報の誇張、危険性高める」](https://www.nikkei.com/article/DGXMZO29427740W8A410C1SHE000/) 2018年4月17日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(5) 情報完備で交渉失敗も」](https://www.nikkei.com/article/DGKKZO29470160X10C18A4KE8000/) 2018年4月18日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(6) 先制攻撃論、戦略的安定損なう」](https://www.nikkei.com/article/DGXMZO29527380Y8A410C1SHE000/) 2018年4月19日朝刊<br>
+  -   [「ゲーム理論で考える安全保障(7) 先制攻撃論、戦略的安定損なう」](https://www.nikkei.com/article/DGKKZO29572880Z10C18A4KE8000/) 2018年4月20日朝刊<br>
   -   [「ゲーム理論で考える安全保障(8) 同盟の有効性には疑問も」](https://www.nikkei.com/article/DGXMZO29630610Q8A420C1SHE000/)」2018年4月12日朝刊<br>
 
 
