@@ -119,7 +119,7 @@ layout: default
 ## 栗崎の指導教官
 - UCLAでの博士論文委員会 <br>
 Arthur Stein, Co-chair, Distinguished Professor of Political Science, UCLA <br>
-Kenneth Schultz, Co-chari, William Bennett Munro Professor of Political Science, Stanford University <br>
+Kenneth Schultz, Co-chair, William Bennett Munro Professor of Political Science, Stanford University <br>
 Barry O'Neill, Professor of Political Science, UCLA <br>
 Michael Chew, Professor of Political Science, UCLA <br>
 Leeat Yariv, Uwe E. Reinhardt Professor of Economics, Princeton University <br>
