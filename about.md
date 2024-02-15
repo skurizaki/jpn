@@ -5,7 +5,7 @@ layout: default
 
 - <b>CV</b><br>
 Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv.pdf) (最終更新: 2024年2月11日)<br>
-履歴書 (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r914euxvokpm/kurizaki-cv-j.pdf) (最終更新: 2024年2月11日)<br>
+履歴書 (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhwbz8nr4whh6ubvps1ub/kurizaki-cv-jp.pdf?rlkey=cjrst6j1aomy020ocwlsaaclj&dl=0) (最終更新: 2024年2月11日)<br>
 
 - <b>略歴</b><br>
 1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
