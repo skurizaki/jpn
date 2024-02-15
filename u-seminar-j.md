@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](http://www.f.waseda.jp/kurizaki/teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ 連絡先](./contact.html)
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [Homepage (English)](https://skurizaki.github.io/homepage/) [/ 連絡先](./contact.html)
 
 ## ゼミの概要
 栗崎ゼミは以下の科目の履修を通して参加することが出来ます。
