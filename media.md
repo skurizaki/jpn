@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [Homepage (English)](https://skurizaki.github.io/homepage/) [/ 連絡先](./contact.html)
-
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [Homepage (English)](https://skurizaki.github.io/homepage/) 
 
 ## 一般向けの研究紹介・インタビューのメディア掲載
 - サプライチェーンの推定とサプライヤーの隠れ株主に関する水野貴之氏（国立情報学研究所准教授）との共同研究が日経ビジネスの特集記事で紹介されました。<br>
