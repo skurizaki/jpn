@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](./research.html) [/ データセット](./datasets.html) [/ Homepage (English/英語)](https://skurizaki.github.io/homepage/) [/ 連絡先](./contact.html)
+[/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](http://www.f.waseda.jp/kurizaki/teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ 連絡先](./contact.html)
 
 ## 担当授業
 - 学部
