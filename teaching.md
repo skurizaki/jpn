@@ -16,7 +16,7 @@ layout: default
   - Game theory for political science (Texas A&M)
 
 - 大学院
-  - 国際政治
+  - [国際政治](./ir-g.html)
   - Reading Seminar in International Relations
   - 国際政治専門セミナー　Research Seminar on International Relations
   - 政治学研究方法（数理）Research Methods in Political Sciene (Formal Theory)
