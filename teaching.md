@@ -5,7 +5,7 @@ layout: default
 
 ## 担当授業
 - 学部
-  - 国際政治学（隔年担当）
+  - [国際政治学（隔年担当）](./ir-u.html)
   - [政治学演習（栗崎ゼミ）](./u-seminar-j.html)
   - ゲーム理論による政治分析 / Applied game theory in political analysis
   - International Politics
