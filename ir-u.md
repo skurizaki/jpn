@@ -1,5 +1,5 @@
 
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ Homepage (English)](https://skurizaki.github.io/homepage/)
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ Homepage (English)](https://skurizaki.github.io)
 
 ## 「国際政治学」早大政治経済学部
 2022-23年度はサバティカルのため中村英俊教授に担当いただいています。2024年度より中村教授と栗崎の隔年担当とします（政治学向けのゲーム理論の講義を新設担当する準備のためです）。
