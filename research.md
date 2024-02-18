@@ -9,7 +9,7 @@ layout: default
   - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The Flow of Corporate Control in the Global Ownership Network](https://doi.org/10.1371/journal.pone.0290229). 
   _PLOS ONE_, 18 (8): e0290229.
   - Mizuno, T., Doi, S., Tsuchiya, T. and Kurizaki, S. (2021). [Socially Responsible Investing through the Equity Funds in the Global Ownership Network](https://doi.org/10.1371/journal.pone.0256160). _PLOS ONE_, 16 (8): e0256160.
-  - Mizuno, T., Doi, S., Kurizaki, S. (2020). [Network Shapley-Shubik Power Index: Measuring Indirect Influence in Shareholding Networks](https://doi.org/10.1007/978-3-030-36683-4_49).\ In: Cherifi, H., Gaito, S., Mendes, J., Moro, E., Rocha, L. (eds) _Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence_, vol 882. Springer, Cham.
+  - Mizuno, T., Doi, S., Kurizaki, S. (2020). [Network Shapley-Shubik Power Index: Measuring Indirect Influence in Shareholding Networks](https://doi.org/10.1007/978-3-030-36683-4_49). In: Cherifi, H., Gaito, S., Mendes, J., Moro, E., Rocha, L. (eds) _Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence_, vol 882. Springer, Cham.
   - Mizuno, T., Doi, S. and Kurizaki, S. (2020), [The power of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0237862).
   _PLOS ONE_, 15 (8)
 
