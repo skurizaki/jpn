@@ -19,10 +19,6 @@ layout: default
 
 
 ## 外交と国際紛争
-
-## 抑止
-
-
 - Hirose, K., and Kurizaki, S. (2019). [The logic of the survival of North Korea](https://onlinelibrary.wiley.com/doi/abs/10.1111/aepr.12267).
   _Asian Economic Policy Review, 14_(2), 287-304.
 - Kurizaki, S. (2017). [Signaling Game of Collective Self-Defense in the U.S.-Japan Alliance](https://link.springer.com/chapter/10.1007/978-4-431-56466-9_2). \
