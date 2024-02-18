@@ -6,9 +6,9 @@ layout: default
 - 株式保有のグローバルネットワーク<br>
 古来より、領土や生産要素の奪取 には軍事力が用いられてきたが、近年では、サプライチェーンや重要インフラがパワー争奪戦の焦点となっている。その手段も金融市場での合法的な取引の中に紛れ込むというグレーゾーン事態が、未遂も含めて世界各地で確認されている。また従来型の地政学的リスクの分析では、企業や工場の所在国に着目して、その属性(例えば所有権保護制度や 政情不安や武力紛争の蓋然性など) を評価してきた。しかし、有事におけるリスク分布ならまだしも、平時におけるグレーゾーン事態がメインシナリオとなる新国際秩序の中では、経済安保リスクは必ずしも地理にひもづかない。その主戦場は金融市場である。<br><br>
 このように株式保有ネットワークの中にタテに深く潜り込んだ企業支配の連鎖や、ネットワーク上でヨコに分散する議決権の中から「隠れ株主」を検出することは、手作業どころか、戦略性の裏付けがないデータ解析でも不可能だ。そこで、水野貴之氏（国立情報学研究所）らとの共同研究では、上場企業の株主リストとその株式保有率などに関する４億件の情報からネットワーク構造を構築したビッグデータの解析に際して、企業支配に必要な多数派工作の戦略性を組み込むことで、膨大なデータの中から企業経営への支配や影響を瞬く間に検出する解法を開発した。
-  - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The flow of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0290229). 
+  - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The Flow of Corporate Control in the Global Ownership Network](https://doi.org/10.1371/journal.pone.0290229). 
   _PLOS ONE_, 18 (8): e0290229.
-  - Mizuno, T., Doi, S., Tsuchiya, T. and Kurizaki, S. (2021). [Socially responsible investing through the equity funds in the global ownership network] (https://doi.org/10.1371/journal.pone.0256160). _PLOS ONE_, 16 (8): e0256160.
+  - Mizuno, T., Doi, S., Tsuchiya, T. and Kurizaki, S. (2021). [Socially Responsible Investing through the Equity Funds in the Global Ownership Network](https://doi.org/10.1371/journal.pone.0256160). _PLOS ONE_, 16 (8): e0256160.
   - Mizuno, T., Doi, S., Kurizaki, S. (2020). [Network Shapley-Shubik Power Index: Measuring Indirect Influence in Shareholding Networks](https://doi.org/10.1007/978-3-030-36683-4_49).\ In: Cherifi, H., Gaito, S., Mendes, J., Moro, E., Rocha, L. (eds) _Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence_, vol 882. Springer, Cham.
   - Mizuno, T., Doi, S. and Kurizaki, S. (2020), [The power of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0237862).
   _PLOS ONE_, 15 (8)
