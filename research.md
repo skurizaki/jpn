@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ メディア・一般向け](./media.html) [/ Homepage (English)](https://skurizaki.github.io) 
 
 ## 国際政治経済秩序のミクロ的基盤
 - 株式保有のグローバルネットワーク<br>
