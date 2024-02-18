@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/homepage/) 
+[/ Home](https://skurizaki.github.io/jpn/) [/ cv･略歴](./about.html) [/ 研究](http://www.f.waseda.jp/kurizaki/research.html) [/ 教育・授業](./teaching.html) [/ データセット](http://www.f.waseda.jp/kurizaki/data.html) [/ Homepage (English)](https://skurizaki.github.io/) 
 
 ## 一般向けの研究紹介・インタビューのメディア掲載
 - 2024年1月22日：『日経ビジネス』の特集記事で研究が紹介されました。<br>
