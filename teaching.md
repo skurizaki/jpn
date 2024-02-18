@@ -34,11 +34,11 @@ layout: default
     高木要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 <br>
     小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO <br>
-    倉嶋麻里 現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
+    倉嶋麻里　現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
     板橋飛雄馬　現在：伊藤忠商事　→ KPMG Japan (Financial Risk Analyst) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 　(早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
-    石田早帆子　現在：LSE統計学部博士課程 Ph.D. Candidate <br>
+    石田早帆子　現在：LSE統計学部 Ph.D. 　→ Bologna大学統計学部 research fellow (ポスドク) <br>
     他3名 <br>
   - <b>2017年度卒業</b> <br>
     関口雅啓　現在：PwCコンサルティング合同会社 →　Data scientist at JMDC <br>
