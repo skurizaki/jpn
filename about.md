@@ -8,7 +8,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 履歴書 (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhwbz8nr4whh6ubvps1ub/kurizaki-cv-jp.pdf?rlkey=cjrst6j1aomy020ocwlsaaclj&dl=0) (最終更新: 2024年2月11日)<br>
 
 - <b>略歴</b><br>
-1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
+1993－1998年　[上智大学法学部](http://www.sophialaw.jp/faculty/)卒業<br>
 1999－2005年　[UCLA政治学部](https://polisci.ucla.edu)博士課程（Ph.D. in political science, 2007年取得）<br>
 2005－2006年　[ハーバード大学ジョンオーリン戦略研究所](https://www.wcfia.harvard.edu/olin/) 国家安全保障フェロー<br>
 2006－2013年　[テキサスA&M大学政治学部](https://bush.tamu.edu/pols/) 講師・助教授<br>
