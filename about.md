@@ -18,12 +18,12 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 
 - <b>その他の経歴</b><br>
 2014年　　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者数1万人強）<br>
-2018年－現在　広島県平和推進プロジェクト<br>
+2018年－現在　[広島県平和推進プロジェクト](https://www.pref.hiroshima.lg.jp/soshiki/232/)<br>
 2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
-2022年－現在　国立情報学研究所 客員准教授<br>
+2022年－現在　[国立情報学研究所](https://www.nii.ac.jp/faculty/list/visiting-profs/) 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
 2024年－現在　編集長(Editor-in-Chief), [Japanese Journal of Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science) (Cambridge University Press)<br>
-2024年－現在　防衛省「防衛力の抜本的強化に関する有識者会議（仮称）」委員<br>
+2024年－現在　防衛省[防衛力の抜本的強化に関する有識者会議](https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/index.html)委員<br>
 
 - <b>受賞</b><br>
   - 2005年　[カール・ベック (Carl Beck) 賞](https://www.isanet.org/Programs/Awards/Carl-Beck)：[国際関係学会 (International Studies Association)](https://www.isanet.org/) 年間最優秀論文賞<br>
