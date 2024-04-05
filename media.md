@@ -11,10 +11,9 @@ layout: default
     - Mizuno, T., Doi, S., Kurizaki, S. (2020). [Network Shapley-Shubik Power Index: Measuring Indirect Influence in Shareholding Networks](https://doi.org/10.1007/978-3-030-36683-4_49). In: Cherifi, H., Gaito, S., Mendes, J., Moro, E., Rocha, L. (eds) Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence, vol 882. Springer, Cham.
     - Mizuno, T., Doi, S. and Kurizaki, S. (2020), [The power of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0237862).　_Plos one, 15_(8)
 
-- 2024年1月22日：『日経ビジネス』の特集記事で研究が紹介されました。
-  - [「テスラの「ケイレツ」、中国シフト鮮明に　4万8000社データで分析」](https://business.nikkei.com/atcl/gen/19/00600/011700004/?gift=gl7AsNnH5EboL51iixxT4iekKCYJ4eEgKXWYc2la2mw%253D&n_cid=nbpnb_gift)『日経ビジネス』デジタル版<br>
-  [「取引先マップで浮かぶケイレツ メキシコに集積 中国が「隠れ株主」に」](https://business.nikkei.com/atcl/NBD/19/special/01678/)『日経ビジネス』2024年1月22日号<br>
-  - サプライチェーンの推定とサプライヤーの隠れ株主に関する水野貴之氏（国立情報学研究所准教授）との共同研究についてです。<br>
+- 2024年1月22日：[「テスラの「ケイレツ」、中国シフト鮮明に　4万8000社データで分析」](https://business.nikkei.com/atcl/gen/19/00600/011700004/?gift=gl7AsNnH5EboL51iixxT4iekKCYJ4eEgKXWYc2la2mw%253D&n_cid=nbpnb_gift)『日経ビジネス』デジタル版<br>
+  - [「取引先マップで浮かぶケイレツ メキシコに集積 中国が「隠れ株主」に」](https://business.nikkei.com/atcl/NBD/19/special/01678/)『日経ビジネス』2024年1月22日号<br>
+  - 『日経ビジネス』の特集記事で研究が紹介されました。サプライチェーンの推定とサプライヤーの隠れ株主に関する水野貴之氏（国立情報学研究所准教授）との共同研究についてです。<br>
 
 - 2023年1月31日：ミサイル防衛そして反撃能力（敵基地攻撃能力）に関する小文を『TARON』（国政情報センター）に寄稿（依頼）しました。<br>
   -「敵基地攻撃の可能性と限界。エスカレーションリスクを論ず」[『TARON - 太論　３号　ミサイル防衛を巡る日本の現状』](https://www.kokuseijoho.jp/2023年/978-4-87760-270-3-2-3-3/)2023年1月31日発行<br>
