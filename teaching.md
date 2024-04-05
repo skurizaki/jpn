@@ -25,12 +25,12 @@ layout: default
 
 ## 在籍学生・卒業生・修了生
 - 学部ゼミ
-  - <b>2015年度卒業</b> <br>
+  - <b>2014年度卒業</b> <br>
     小石隆也　現在：Ernst & Young (EY) Advisory　→　Optimum Solutions<br>
     福岡杏里紗　現在：デロイト・トーマツ <br>
     小石未菜　現在： 海外在住のブロガー<br>
     他2名 <br>
-  - <b>2016年度卒業</b> <br>
+  - <b>2015年度卒業</b> <br>
     高木要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 <br>
     小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO <br>
@@ -40,7 +40,7 @@ layout: default
     柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 　(早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     石田早帆子　現在：LSE統計学部 Ph.D. 　→ Bologna大学統計学部 research fellow (ポスドク) <br>
     他3名 <br>
-  - <b>2017年度卒業</b> <br>
+  - <b>2016年度卒業</b> <br>
     関口雅啓　現在：PwCコンサルティング合同会社 →　Data scientist at JMDC <br>
     瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
     小島敦幹　現在：アマゾンWeb Services (AWS) Dublin → Proximus Ada as Data Scientist <br>
