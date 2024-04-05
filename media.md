@@ -8,7 +8,6 @@ layout: default
   - 『日経ビジネス』の特集記事に水野貴之氏（国立情報学研究所）と共に論点の提示と事例紹介それを裏付けるデータ分析などを提供しました。NPI (Network Power Index) および NPF (Network Power Flow) に関する下記の研究に基づいた分析です。
     - Mizuno, T., Doi, S．and Kurizaki, S. (2023). [The flow of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0290229). 
   _PLoS ONE, 18_(8): e0290229.
-    - Mizuno, T., Doi, S., Kurizaki, S. (2020). [Network Shapley-Shubik Power Index: Measuring Indirect Influence in Shareholding Networks](https://doi.org/10.1007/978-3-030-36683-4_49). In: Cherifi, H., Gaito, S., Mendes, J., Moro, E., Rocha, L. (eds) Complex Networks and Their Applications VIII. COMPLEX NETWORKS 2019. Studies in Computational Intelligence, vol 882. Springer, Cham.
     - Mizuno, T., Doi, S. and Kurizaki, S. (2020), [The power of corporate control in the global ownership network](https://doi.org/10.1371/journal.pone.0237862).　_Plos one, 15_(8)
 
 - 2024年1月22日：[「テスラの「ケイレツ」、中国シフト鮮明に　4万8000社データで分析」](https://business.nikkei.com/atcl/gen/19/00600/011700004/?gift=gl7AsNnH5EboL51iixxT4iekKCYJ4eEgKXWYc2la2mw%253D&n_cid=nbpnb_gift)『日経ビジネス』デジタル版<br>
