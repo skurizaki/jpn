@@ -33,6 +33,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
   2017年　早稲田大学 e-Teaching Award<br>
   2021年　日本人工知能学会 (JSAI Annual Conference Award) [全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)（[水野貴之](https://www.nii.ac.jp/faculty/society/mizuno_takayuki/)・土井翔平・土屋貴裕との共同研究）<br>
   2022年　日本人工知能学会 (JSAI Annual Conference Award) [全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)（[水野貴之](https://www.nii.ac.jp/faculty/society/mizuno_takayuki/)・土井翔平との共同研究）<br>
+  2024年　早稲田大学ティーチングアワード総長賞<br>
 
 - <b>知的財産権</b><br>
   - 水野貴之, 土井翔平, 栗崎周平（発明者・権利者）/ 影響力評価システム/ 特願2021-162219 (審理中：2021年申請）Network Power Flow (NPF)の算出装置：ネットワークで繋がる主体間の命令経路を算出する装置<br>
