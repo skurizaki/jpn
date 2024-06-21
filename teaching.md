@@ -37,7 +37,7 @@ layout: default
     倉嶋麻里　現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
     板橋飛雄馬　現在：伊藤忠商事　→ KPMG Japan (Financial Risk Analyst) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
-    柏木柚香　現在：東京理科大学ビジネスエコノミクス学科助教 　(早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
+    柏木柚香　現在：日本大学経済学部[専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) 　(早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     石田早帆子　現在：LSE統計学部 Ph.D. 　→ Bologna大学統計学部 research fellow (ポスドク) <br>
     他3名 <br>
   - <b>2016年度卒業</b> <br>
@@ -74,7 +74,7 @@ layout: default
     Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
     平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
     鴨志田暁　現在：ブリティッシュコロンビア大学, Law School, 法務博士JD candidate (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
-    中村健太郎　現在：シカゴ大学統計学部修士課程　→　ハーバード大学ケネディーSchool 博士課程 （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
+    中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura) （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
     入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     Weiyuan Chen　現在：Accenture Japan <br>
     温ビチャン　現在：野村證券 <br>
@@ -94,9 +94,9 @@ layout: default
     Jisu Eom <br>
 - 大学院（指導、主査、博士課程は副査を含む）
   - <b>ポスドク</b> <br>
-    土井翔平　現在：北海道大学法学研究科准教授
+    [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
   - <b>博士課程</b> <br>
-    淺野塁 就職：西南学院大学法学部准教授 <br>
+    [淺野塁](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html) 就職：西南学院大学法学部講師 <br>
     Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師 <br>
     田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師 <br>
   - <b>修士課程</b> <br>
