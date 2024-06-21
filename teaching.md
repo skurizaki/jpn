@@ -106,7 +106,7 @@ layout: default
   - <b>博士課程</b> <br>
     [淺野塁](http://www.seinan-gu.ac.jp/law/professor/asano_rui.html) 就職：西南学院大学法学部講師 <br>
     Kelly Zhang　就職：オーストラリア国立大学政治・国際関係学部講師 <br>
-    田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師 <br>
+    [田中（坂部）有佳子　就職：共立女子大学国際関係学部専任講師](https://kyonet.kyoritsu-wu.ac.jp/KgResult/japanese/researchersHtml/T02321502/T02321502_Researcher.html) <br>
   - <b>修士課程</b> <br>
     仁科有美子　前職：防衛省（航空幕僚監部）、現在：NEC <br>
     本山功　前職：学部生（早稲田）、現在：防衛省防衛研究所 <br>
