@@ -57,7 +57,7 @@ layout: default
     寺田篤史　現在：EYパルテノン <br>
     他3名 <br>
   - <b>2019年度卒業</b> <br>
-    本山功　現在：防衛省防衛研究所研究員 <br>
+    [本山功　現在：防衛省防衛研究所研究員](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
     藤生梨乃　現在：日本総合研究所 <br>
     [太田奈歩　現在：カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
     遠田航平　現在： <br>
