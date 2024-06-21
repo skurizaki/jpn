@@ -35,7 +35,7 @@ layout: default
     板橋飛雄馬　現在：伊藤忠商事　→ KPMG Japan (Financial Risk Analyst) <br>
     [柏木柚香　現在：日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) 　(早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     倉嶋麻里　現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
-    小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO <br>
+    [小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     高木要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 (Templeton Research) <br>
