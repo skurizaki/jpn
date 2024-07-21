@@ -38,7 +38,7 @@ layout: default
     倉嶋麻里　現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
     [小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
-    高木要　現在：LegalOn Technologies (Data analyst) <br>
+    高木　要　現在：LegalOn Technologies (Data analyst) <br>
     Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 (Templeton Research) <br>
     他3名 <br>
   - <b>2016年度卒業</b> <br>
