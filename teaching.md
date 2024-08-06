@@ -20,7 +20,7 @@ layout: default
   - Reading Seminar in International Relations
   - 国際政治専門セミナー　Research Seminar on International Relations
   - 政治学研究方法（数理）Research Methods in Political Sciene (Formal Theory)
-  - International Relations Theory (Texas A&M)
+  - International Relations Theory (Texas A&M) 
   - Formal Modeling in Political Science (Texas A&M)
 
 ## 在籍学生・卒業生・修了生
