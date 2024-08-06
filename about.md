@@ -18,7 +18,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 
 - <b>その他の経歴</b><br>
 2014年　　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者数1万人強）<br>
-2018年－現在　[ひろしまラウンドテーブル]([https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
+2018年－現在　[ひろしまラウンドテーブル](https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
 2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
 2022年－現在　[国立情報学研究所](https://www.nii.ac.jp/faculty/list/visiting-profs/) 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
