@@ -20,7 +20,7 @@ Curriculum Vitae (.pdf) は[こちら](https://www.dropbox.com/scl/fi/jhus532e3r
 2014年　　[JMOOC](https://www.jmooc.jp/en/)講座として[gocco](https://gacco.org)より[「国際安全保障論」](https://lms.gacco.org/courses/gacco/ga003/2014_06/about)を開講（受講者数1万人強）<br>
 2018年－現在　[ひろしまラウンドテーブル](https://www.pref.hiroshima.lg.jp/soshiki/232/](https://hiroshimaforpeace.com/roundtable/))<br>
 2020年－現在　[計量・数理政治学会 (JSQPS)](https://sites.google.com/view/jsqps/) 幹事<br>
-2021年－現在　文部科学省 科学技術・学術審議会専門委員会・作業部会メンバー<br>
+2021年－現在　文部科学省 科学技術・学術審議会学術分科会研究環境基盤部会　委員<br>
 2022年－現在　[国立情報学研究所](https://www.nii.ac.jp/faculty/list/visiting-profs/) 客員准教授<br>
 2022年－現在　財務省財政総合研究所 特別研究官<br>
 2024年－現在　[<i>Japanese Journal of Political Science</i>](https://www.cambridge.org/core/journals/japanese-journal-of-political-science) (Cambridge University Press) 編集長(Editor-in-Chief)<br>
