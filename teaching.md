@@ -89,6 +89,7 @@ layout: default
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
     [小磯　慎士　現在：東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ ["Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）](https://www.waseda.jp/fpse/pse/assets/uploads/2022/03/e03f565f219becf9041bfe01725f65d1.pdf))<br>
+    　→ ノースウェスタン大学経済学部博士課程　<br>
     長田創太郎　現在：日本IBM（コンサルタント） <br>
     菊地優　現在：株式会社 ツムラ <br>
     Riki Widodo　現在：ジョージワシントン大学, Masters program in Asian Studies <br>
@@ -96,10 +97,15 @@ layout: default
     　→ （学部長奨励賞：成績優秀者（[国際政治経済学科首席卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)））<br>
     他3名 <br>
   - <b>2025年度卒業予定</b> <br>
-    金島匠 <br>
-    徳永 <br>
-    新浜 <br>
-    Jisu Eom <br>
+    金島匠 早稲田大学大学院（予定）<br>
+    徳永 東京大学大学院（予定）<br>
+    新浜 電通 <br>
+    上野貴裕 三菱重工業 <br>
+    Jisu Eom ソウル国立大学大学院（予定）<br>
+  - <b>2026年度卒業予定</b> <br>
+    梶谷 <br>　
+    鈴木 <br>　
+    Christie Wang <br>　
 - 大学院（指導、主査、博士課程は副査を含む）
   - <b>ポスドク</b> <br>
     [土井翔平　現在：北海道大学法学研究科准教授](https://www.hops.hokudai.ac.jp/outline/faculty-members/lecturers/土井%E3%80%80翔平/)
