@@ -31,20 +31,20 @@ layout: default
     小石未菜　現在： 海外在住のブロガー<br>
     他2名 <br>
   - <b>2015年度卒業</b> <br>
-    [石田早帆子　現在：LSE統計学部 Ph.D. 　→ オックスフォード大学コンピュータサイエンス学部 research associate (ポスドク)](https://www.cs.ox.ac.uk/people/sahoko.ishida/) <br>
-    板橋飛雄馬　現在：伊藤忠商事　→ KPMG Japan (Financial Risk Analyst) <br>
-    [柏木柚香　現在：日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
+    石田早帆子　現在：LSE統計学部 Ph.D. <br>　→ [オックスフォード大学コンピュータサイエンス学部 research associate (ポスドク)](https://www.cs.ox.ac.uk/people/sahoko.ishida/) <br>
+    板橋飛雄馬　現在：伊藤忠商事　<br> → KPMG Japan (Financial Risk Analyst) <br>
+    柏木柚香　現在：[日本大学経済学部専任講師](https://researcher-web.nihon-u.ac.jp/search/detail?systemId=787040db4a9a699c376d2ad43032f943520e17560c007669&lang=ja&st=researcher) <br>
     　→ (早稻田大學政治經濟學會論文コンクール佳作「「足枷」：軍事危機における公債の役割」)<br>
     倉嶋麻里　現在：アイリス株式会社／ 東京大学大学院医学系研究科公共健康医学専攻 <br>
-    [小久保孝咲　現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
+    小久保孝咲　[現在：株式会社クロスビット Xbit 創業者・CEO](https://sogyotecho.jp/xbit-kokubo-interview/) <br>
     西　亮祐　　現在：株式会社アンドパッド（ソフトウェアエンジニア）<br>
     高木　要　現在：LegalOn Technologies (Data analyst) <br>
-    Yana Otlan　現在：UCLA政治学部博士課程　→　英国調査会社 (Templeton Research) <br>
+    Yana Otlan　現在：UCLA政治学部博士課程　<br> →　英国調査会社 (Templeton Research) <br>
     他3名 <br>
   - <b>2016年度卒業</b> <br>
-    関口雅啓　現在：PwCコンサルティング合同会社 →　Data scientist at JMDC <br>
+    関口雅啓　現在：PwCコンサルティング合同会社 <br>→　Data scientist at JMDC <br>
     瀧澤朋郎（公認会計士）　現在：Ernst & Young 新日本有限責任監査法人 <br>
-    小島敦幹　現在：アマゾンWeb Services (AWS) Dublin → Proximus Ada as Data Scientist <br>
+    小島敦幹　現在：アマゾンWeb Services (AWS) Dublin <br>→ Proximus Ada as Data Scientist <br>
     徳田誠太郎　現在：東映 <br>
     佐藤和煇　現在：三井住友信託銀行 <br>
     他3名 <br>
@@ -60,22 +60,24 @@ layout: default
     寺田篤史　現在：EYパルテノン <br>
     他3名 <br>
   - <b>2019年度卒業</b> <br>
-    [本山功　現在：防衛省防衛研究所研究員](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
+    本山功　現在：[防衛省防衛研究所研究員](https://www.nids.mod.go.jp/researchfellow/anzen/motoyama.html) <br>
     藤生梨乃　現在：日本総合研究所 <br>
-    [太田奈歩　現在：カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
+    太田奈歩　現在：[カリフォルニア大学サンディエゴ校(UCSD)政治学部博士課程](https://polisci.ucsd.edu/grad/current-students/index.html) <br>
     遠田航平　現在： <br>
     バズィレバ　バレンティーナ　Valentina Bazyleva　現在：アムステルダム大学 MS in Computer Science <br>
     望戸薫　現在：Ernst & Young Advisory, Consulting <br>
     清水魁星　現在：NHK (記者) <br>
     伊藤千夏　現在：株式会社システナ <br>
     久保麟太郎　現在：財務省 <br>
+    　→ 英ウォーリック大学大学院<br>
     橋本龍太郎　現在： ミシガン大学統計学部, MS in Data Science<br>
     　→ （チーム"Remember2016" [第１回 早稲田大学 データサイエンスコンペティション「データサイエンス×参議院選挙予測」最優秀賞](https://www.waseda.jp/inst/cds/news/983)）<br>
   　他3名 <br>
   - <b>2020年度卒業</b><br>
     入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
-    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD 現在：[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
+    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD 
+       　→ 弁護士（　[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
     久保田雪華　現在： <br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
