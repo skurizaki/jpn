@@ -85,7 +85,7 @@ layout: default
   - <b>2020年度卒業</b><br>
     入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
-    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD 
+    [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD <br>
        　→ 弁護士[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
     久保田雪華　現在： <br>
@@ -98,7 +98,7 @@ layout: default
     Weiyuan Chen　現在：Accenture Japan <br>
   - <b>2021年度卒業</b> <br>
     朱奇默　Qimo Zhu　現在：早稲田大学院政治学研究科 <br>
-    [小磯　慎士　現在：東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
+    小磯　慎士　現在：[東京大学大学院経済学研究科博士課程](https://www.mdc.e.u-tokyo.ac.jp/member/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科4位卒業](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/))＋ ["Media Dysfunction and Democratic Backsliding"（2021年度早稻田大學政治經濟學會優秀賞）](https://www.waseda.jp/fpse/pse/assets/uploads/2022/03/e03f565f219becf9041bfe01725f65d1.pdf))<br>
     　→ ノースウェスタン大学経済学部博士課程　<br>
     長田創太郎　現在：日本IBM（コンサルタント） <br>
