@@ -86,13 +86,13 @@ layout: default
     入原光輝　現在：ニューヨーク大学 Steinhardtスクール MS in Applied Statistics <br>
     温ビチャン　現在：野村證券 <br>
     [鴨志田暁](https://mcmillan.ca/people/aki-kamoshida/)　ブリティッシュコロンビア大学, Law School, 法務博士JD 
-       　→ 弁護士（　[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
+       　→ 弁護士[McMillan LLP所属](https://mcmillan.ca/people/aki-kamoshida/)<br>
     　→ (学部長奨励賞：成績優秀者 ([国際政治経済学科次席卒業](https://www.waseda.jp/fpse/pse/news/2021/04/01/13041/)))<br>
     久保田雪華　現在： <br>
     鈴木輝 　現在：Accenture (Data science consultant) <br>
     坂東茉唯　現在：三井物産 <br>
     平野真帆　現在：Googleジャパン, Associate Account Strategist <br>
-    [中村健太郎　現在：シカゴ大学統計学部修士課程　→　ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
+    中村健太郎　現在：シカゴ大学統計学部修士課程　→　[ハーバード大学ケネディーSchool 博士課程](https://www.iq.harvard.edu/people/kentaro-nakamura)<br>
     　→ （[2020年度早稻田大學政治經濟學會優秀賞 "Telling China’s Stories Well? How the Story-Telling in China has Changed under the Pandemic"](https://www.waseda.jp/fpse/pse/assets/uploads/2021/03/d0305bda2abdf39e12e4ade70d7f9703.pdf)）<br>
     Luigi Ludwig　現在：シティバンク, Sales and Trading <br>
     Weiyuan Chen　現在：Accenture Japan <br>
