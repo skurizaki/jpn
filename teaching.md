@@ -8,8 +8,9 @@ layout: default
   - [国際政治学（隔年担当）](./ir-u.html)
   - [政治学演習（栗崎ゼミ）](./u-seminar-j.html)
   - ゲーム理論による政治分析 / Applied game theory in political analysis
-  - International Politics
-  - Reading Seminar in International Relations
+  - International Politics  (Waseda)
+  - Pre-Seminar in Politics  (Waseda)
+  - Seminar in Politics I - IV (Waseda)
   - War and Conflict Resolution (Texas A&M)
   - International Conflict (Texas A&M)
   - Diplomacy and Statecraft (Texas A&M)
@@ -17,11 +18,19 @@ layout: default
 
 - 大学院
   - [国際政治](./ir-g.html)
-  - Reading Seminar in International Relations
-  - 国際政治専門セミナー　Research Seminar on International Relations
+  - International Politics (Waseda)
+  - [Applied Game Theory for International Relations](./applied-gt.md) (Waseda)
+  - Applied Game Theory for Political Science (Texas A&M)
+  - Reading Seminar in International Relations (Waseda)
+  - Seminar on International Politics (M.A.) 国際政治専門セミナー (Waseda) 
+  - Seminar on International Politics (Ph.D.)国際政治専門セミナー (Waseda)
   - 政治学研究方法（数理）Research Methods in Political Sciene (Formal Theory)
   - International Relations Theory (Texas A&M) 
   - Formal Modeling in Political Science (Texas A&M)
+
+- その他・非常勤
+  - 国際安全保障　gacco (NTT Docomo), 2014
+  - 核抑止理論 (核戦略講座）, 統合幕僚学校, 防衛省・統合幕僚監部, 2025
 
 ## 在籍学生・卒業生・修了生
 - 学部ゼミ
